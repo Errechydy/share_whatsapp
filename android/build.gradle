@@ -26,6 +26,7 @@ apply plugin: 'kotlin-android'
 
 android {
     compileSdkVersion 31
+    namespace "id.my.alan.share_whatsapp"
 
     compileOptions {
         sourceCompatibility JavaVersion.VERSION_1_8
